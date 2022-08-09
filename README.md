@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Matheus Alves Freitas}!</strong>
+## 💜 Olá, meu nome é <strong>Matheus Alves Freitas</strong>
 
 > Desenvolvedor Full Stack, trabalhando atualmente no Grupo Fcamara
 
