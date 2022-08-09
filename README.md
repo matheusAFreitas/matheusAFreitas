@@ -1,16 +1,20 @@
-### Hi there 👋
+## 💜 Olá, meu nome é <strong>{Matheus Alves Freitas}!</strong>
 
-<!--
-**matheusAFreitas/matheusAFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Desenvolvedor Full Stack, trabalhando atualmente no Grupo Fcamara
 
-Here are some ideas to get you started:
+🔭 Projeto atual: Orange Juice App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" alt="NestJS"/></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="ExpressJS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+----
