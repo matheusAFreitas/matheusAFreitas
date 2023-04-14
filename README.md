@@ -2,7 +2,7 @@
 
 > Desenvolvedor Full Stack, trabalhando atualmente no Grupo Fcamara
 
-🔭 Projeto atual: OpenFinance
+🔭 Projeto atual: OpenX
 
 Projetos passados: Orange Juice App
 
