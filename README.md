@@ -1,10 +1,14 @@
 ## Olá, meu nome é <strong>Matheus Alves Freitas</strong>
 
-> Desenvolvedor Back-end Junior, trabalhando atualmente no Grupo Fcamara
+Hi, my name is Matheus Alves Freitas 
 
-🔭 Projeto atual: OpenX
+> Desenvolvedor back-end junior, trabalhando atualmente no Grupo Fcamara
 
-Projetos passados: Orange Juice App
+> Junior back-end developer, currently working in the Fcamara group
+
+🔭 Projeto atual | Current project: FCamara - OpenFinance | OpenInsurance
+
+Projetos em que já atuei | projects I've worked on: Fcamara - Orange Juice App
 
 ----
 
