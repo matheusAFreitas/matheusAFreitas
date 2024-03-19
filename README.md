@@ -2,13 +2,15 @@
 
 Hi, my name is Matheus Alves Freitas 
 
-> Desenvolvedor back-end junior, trabalhando atualmente no Grupo Fcamara
+> cargo atual: Software Developer, trabalhando atualmente no Mercado Livre
 
-> Junior back-end developer, currently working in the Fcamara group
+> current position: Software Developer, currently working at Mercado Libre
 
-🔭 Projeto atual | Current project: FCamara - OpenFinance | OpenInsurance
+🔭 Projeto atual | Current project: (OwnBoarding)
 
-Projetos em que já atuei | projects I've worked on: Fcamara - Orange Juice App
+Projetos em que já atuei | projects I've worked on:
+- FCamara - OpenFinance | OpenInsurance (nov/2022 | mar/2024) (Junior back-end developer)
+- Fcamara - Orange Juice App (nov/2021 | nov/2022) (Trainee full-stack developer)
 
 ----
 
