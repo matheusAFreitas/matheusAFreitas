@@ -10,7 +10,7 @@ Hi, my name is Matheus Alves Freitas
 
 Projetos em que já atuei | projects I've worked on:
 - FCamara - OpenFinance | OpenInsurance (nov/2022 | mar/2024) (Junior back-end developer)
-- Fcamara - Orange Juice App (nov/2021 | nov/2022) (Trainee full-stack developer)
+- FCamara - Orange Juice App (nov/2021 | nov/2022) (Trainee full-stack developer)
 
 ----
 
